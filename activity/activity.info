@@ -1,0 +1,7 @@
+[Activity]
+name = Bingo
+activity_version = 1
+bundle_id = org.sugarlabs.Bingo
+exec = sugar-activity-web
+icon = activity-icon
+repository = https://github.com/EmilyOng/Bingo.activity.git
