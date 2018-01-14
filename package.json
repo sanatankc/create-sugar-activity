@@ -1,5 +1,9 @@
 {
   "amd": {},
+  "scripts": {
+    "start": "cd app && webpack",
+    "install": "cd app && npm install"
+  },
   "volo": {
     "baseUrl": "lib",
     "dependencies": {
